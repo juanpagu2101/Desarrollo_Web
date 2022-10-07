@@ -1,0 +1,1 @@
+El id falla por el position en el css al mooento de crear la barra, si se desactiva sirve. Revisarlo en el CSS.
